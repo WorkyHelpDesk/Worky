@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd2d83c0-0b0f-42cc-9eed-41c589249beb": {
+      "ProjectGuid": "fd2d83c0-0b0f-42cc-9eed-41c589249beb",
+      "DisplayName": "Worky",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
